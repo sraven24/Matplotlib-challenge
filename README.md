@@ -5,7 +5,7 @@ For this challenge, pandas and matplotlib were used to analyze the data from a l
 -	A chart showing the number of mice on each regiment.
 -	A pie graph showing the split of sexes amongst the total lab mice.
 -	A box plot comparing the end volumes of tumors of mice on four specific drugs.
--	A line graph showing the results of one mouse on Capolmulin.
+-	A line graph showing the results of one mouse on Capomulin.
 -	A scatterplot and line regression model of the weight and average tumor volume of mice on Capomulin
 
 # Installation
